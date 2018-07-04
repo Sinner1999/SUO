@@ -1,1 +1,2 @@
-# SUO
+# SUO 
+electronic queue management system
